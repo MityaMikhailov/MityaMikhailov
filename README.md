@@ -1,3 +1,3 @@
 <h1 align="center">Hi there, I'm <a href="https://about.me/mityamikhailov/" target="_blank">Mitya</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width = "24"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/></h1>
 <h3 align="center">iOS developer from Kazakhstan 🇰🇿</h3>
