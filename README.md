@@ -7,7 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=500&color=177386&center=true&multiline=true&repeat=false&random=false&width=435&lines=This+my+GitHub+repository)](https://git.io/typing-svg)
 
 </div>
-# My stack
+
+<h3>My stack</h3>
+
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
