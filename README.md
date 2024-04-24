@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi there, I'm [Mitya](https://about.me/mityamikhailov/) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/>
 
 ### iOS developer from Kazakhstan 🇰🇿
+
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 # [![codewars](https://www.codewars.com/users/MityaMikhailov/badges/large)](https://www.codewars.com/users/MityaMikhailov)
