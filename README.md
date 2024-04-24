@@ -16,5 +16,5 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MityaMikhailov&theme=darkhub)](https://github.com/MityaMikhailov/github-profile-trophy)
 # [![codewars](https://www.codewars.com/users/MityaMikhailov/badges/large)](https://www.codewars.com/users/MityaMikhailov) 
