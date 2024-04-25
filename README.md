@@ -3,7 +3,7 @@
 # Hi there, I'm [Mitya](https://about.me/mityamikhailov/) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=177386&center=true&multiline=true&random=false&width=435&height=60&lines=iOS+developer+from+Kazakhstan;ex+TV+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&height=70&lines=iOS+developer+from+Kazakhstan;ex+TV+engineer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=500&color=177386&center=true&multiline=true&repeat=false&random=false&width=435&lines=This+my+GitHub+repository)](https://git.io/typing-svg)
 
